@@ -1,6 +1,6 @@
-### Exercício:
+## Exercício:
 
-## Vamos criar um exemplo de uma classe para representar uma SmartTV onde:
+### Vamos criar um exemplo de uma classe para representar uma SmartTV onde:
 
 1. Ela tenha as características: ligada (boolean), canal (int) e volume (int);
 2. Nossa TV poderá ligar e desligar e assim mudar o estado ligada;
